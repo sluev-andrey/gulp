@@ -23,13 +23,13 @@
 
 ## Input
 || HTML | Css | Js | Images |
-|:---|:------:|:-----:|:----:|:-----:|:-----:|
+|:---|:------:|:-----:|:----:|:-----:|
 | **Каталог** | src/ | src/css/ | src/js/ | src/img/ | fonts/ | 
 | **Расширение** | .html, .pug | .css, .sass, .scss, .less, .styl | .js, .ts, .coffee | .jpg, .png, .gif |
 
 ## Output
 || HTML | CSS | JavaScript | Images |
-|:---|:------:|:-----:|:----:|:-----:|:-----:|
+|:---|:------:|:-----:|:----:|:-----:|
 | **Путь** | dist/ | dist/css/style.min.css | dist/js/main.min.js | dist/img/ | dist/fonts | 
 
 ## Зупуск:  
