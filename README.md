@@ -22,13 +22,13 @@
 - локальный сервер с автоматическим обновлением страницы при изменении файлов
 
 ## Input
-|| HTML | Css | Js | Images |
+|| HTML | Css | Js | Images | Fonts |
 |:---|:------:|:-----:|:----:|:-----:|
 | **Каталог** | src/ | src/css/ | src/js/ | src/img/ | fonts/ | 
 | **Расширение** | .html, .pug | .css, .sass, .scss, .less, .styl | .js, .ts, .coffee | .jpg, .png, .gif |
 
 ## Output
-|| HTML | CSS | JavaScript | Images |
+|| HTML | CSS | JavaScript | Images | Fonts |
 |:---|:------:|:-----:|:----:|:-----:|
 | **Путь** | dist/ | dist/css/style.min.css | dist/js/main.min.js | dist/img/ | dist/fonts | 
 
