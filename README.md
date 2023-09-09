@@ -22,15 +22,15 @@
 - локальный сервер с автоматическим обновлением страницы при изменении файлов
 
 ## Input
-|| HTML | Styles | Scripts | Images |
+|| HTML | Css | Js | Images |
 |:---|:------:|:-----:|:----:|:-----:|
-| **Каталог** | src/ | src/styles/ | src/scripts/ | src/img/ |
+| **Каталог** | src/ | src/css/ | src/js/ | src/img/ | fonts/ | 
 | **Расширение** | .html, .pug | .css, .sass, .scss, .less, .styl | .js, .ts, .coffee | .jpg, .png, .gif |
 
 ## Output
 || HTML | CSS | JavaScript | Images |
 |:---|:------:|:-----:|:----:|:-----:|
-| **Путь** | dist/ | dist/css/style.min.css | dist/js/main.min.js | dist/img/ |
+| **Путь** | dist/ | dist/css/style.min.css | dist/js/main.min.js | dist/img/ | dist/fonts | 
 
 ## Зупуск:  
 1. Скачать все файлы проекта  
